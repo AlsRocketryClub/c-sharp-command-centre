@@ -1,0 +1,10 @@
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb

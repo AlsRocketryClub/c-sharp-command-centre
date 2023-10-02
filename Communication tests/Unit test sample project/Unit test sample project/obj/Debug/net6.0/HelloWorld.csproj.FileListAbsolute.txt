@@ -1,0 +1,14 @@
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\bin\Debug\net6.0\HelloWorld.exe
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\bin\Debug\net6.0\HelloWorld.deps.json
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\bin\Debug\net6.0\HelloWorld.dll
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\bin\Debug\net6.0\HelloWorld.pdb
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\HelloWorld.dll
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\refint\HelloWorld.dll
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\HelloWorld.pdb
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\ref\HelloWorld.dll

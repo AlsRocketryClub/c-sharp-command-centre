@@ -1,0 +1,14 @@
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\bin\Debug\net6.0\Unit test sample project.exe
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\bin\Debug\net6.0\Unit test sample project.deps.json
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\bin\Debug\net6.0\Unit test sample project.runtimeconfig.json
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\bin\Debug\net6.0\Unit test sample project.dll
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\bin\Debug\net6.0\Unit test sample project.pdb
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\Unit test sample project.GeneratedMSBuildEditorConfig.editorconfig
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\Unit test sample project.AssemblyInfoInputs.cache
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\Unit test sample project.AssemblyInfo.cs
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\Unit test sample project.csproj.CoreCompileInputs.cache
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\Unit test sample project.dll
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\refint\Unit test sample project.dll
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\Unit test sample project.pdb
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\Unit test sample project.genruntimeconfig.cache
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\ref\Unit test sample project.dll

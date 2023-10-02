@@ -1,0 +1,14 @@
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\bin\Debug\net6.0\Bank.exe
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\bin\Debug\net6.0\Bank.deps.json
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\bin\Debug\net6.0\Bank.runtimeconfig.json
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\bin\Debug\net6.0\Bank.dll
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\bin\Debug\net6.0\Bank.pdb
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\Bank.dll
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\refint\Bank.dll
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\Bank.pdb
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\Communication tests\Unit test sample project\Unit test sample project\obj\Debug\net6.0\ref\Bank.dll

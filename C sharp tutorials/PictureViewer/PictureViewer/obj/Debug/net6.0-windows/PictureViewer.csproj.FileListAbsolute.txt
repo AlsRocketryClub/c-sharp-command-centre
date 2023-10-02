@@ -1,0 +1,16 @@
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\PictureViewer\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.exe
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\PictureViewer\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.deps.json
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\PictureViewer\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.runtimeconfig.json
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\PictureViewer\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.dll
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\PictureViewer\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.pdb
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.Form1.resources
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.csproj.GenerateResource.cache
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.AssemblyInfoInputs.cache
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.AssemblyInfo.cs
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.csproj.CoreCompileInputs.cache
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.dll
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\refint\PictureViewer.dll
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.pdb
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.genruntimeconfig.cache
+D:\D drive Documents\GitHub\Art-Dei-Tech\Repos\arc-c-sharp-command-centre\C sharp tutorials\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\ref\PictureViewer.dll
